@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-<h1>testing git</h1>
+# Git Test — Practice Repository
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=520&lines=Build+%E2%80%A2+Test+%E2%80%A2+Improve" alt="Animated banner: Build, Test, Improve" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/Test%20Repository-555555?style=flat-square&logo=github&logoColor=white" alt="Test Repository badge" />
-</p>
+Repositori ini berisi template landing page statis berbasis **Start Bootstrap New Age**, dengan HTML, CSS, JavaScript, SCSS, dan aset vendor. Nama repo serta teks di beberapa file menunjukkan ini adalah area latihan Git, bukan aplikasi produksi.
 
-=======
-### GIT REPOSITORY MANAGEMENTT
+## Struktur ringkas
 
-<h1> STAGING BRANCH </h1>
->>>>>>> staging
+- `index.html` — halaman landing page
+- `css/`, `scss/` — stylesheet
+- `js/` — skrip halaman
+- `img/`, `device-mockups/`, `vendor/` — aset dan dependensi frontend
+- `gulpfile.js`, `package.json` — konfigurasi toolchain template lama
+
+## Status saat ini
+
+**Jangan anggap halaman ini sebagai build yang bersih.** File `index.html` masih berisi marker konflik Git (`<<<<<<<`, `=======`, dan `>>>>>>>`) di bagian hero. Marker tersebut harus diselesaikan atau dihapus sebelum halaman dipakai sebagai situs yang siap dipublikasikan.
+
+README ini sendiri sudah dirapikan agar tidak menampilkan konflik yang sama. Konflik di `index.html` belum diubah sebagai bagian dari perbaikan dokumentasi ini.
+
+## Melihat file
+
+Buka `index.html` di browser untuk memeriksa template. Untuk pengembangan lanjutan, gunakan toolchain yang sesuai dengan konfigurasi repositori; `package.json` saat ini tidak mendefinisikan script npm `start`, `dev`, atau `build`.
+
+## Tujuan belajar
+
+Repositori ini paling cocok untuk latihan memahami perubahan file, staging, branch, dan penyelesaian merge conflict. Sebelum dijadikan portofolio aplikasi, rapikan konflik di kode dan dokumentasikan modifikasi yang benar-benar dibuat.
