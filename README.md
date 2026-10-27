@@ -12,7 +12,7 @@ Repositori ini berisi template landing page statis berbasis **Start Bootstrap Ne
 
 ## Status saat ini
 
-**Konflik Git di bagian hero `index.html` sudah diselesaikan** dengan satu judul yang valid: “Belajar dan Berkembang Bersama Komunitas Programmer”. Marker konflik (`<<<<<<<`, `=======`, dan `>>>>>>>`) yang sebelumnya merusak markup telah dihapus. Ini memperbaiki konflik sumber yang diketahui, tetapi belum berarti seluruh template lama telah lolos audit produksi.
+**Konflik Git di bagian hero `index.html` sudah diselesaikan** dengan satu judul yang valid: “Belajar dan Berkembang Bersama Komunitas Programmer”. Tautan unduhan palsu ke Google Play/App Store dan tautan sosial/footer placeholder juga sudah dihapus; halaman sekarang menyatakan bahwa aplikasi mobile belum tersedia dan memakai tautan GitHub, LinkedIn, serta email yang nyata. Ini membersihkan masalah yang ditemukan, tetapi belum berarti seluruh template lama telah lolos audit produksi.
 
 ## Melihat file
 
