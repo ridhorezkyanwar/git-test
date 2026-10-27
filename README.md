@@ -20,4 +20,4 @@ Buka `index.html` di browser untuk memeriksa template. Untuk pengembangan lanjut
 
 ## Tujuan belajar
 
-Repositori ini paling cocok untuk latihan memahami perubahan file, staging, branch, dan penyelesaian merge conflict. Sebelum dijadikan portofolio aplikasi, rapikan konflik di kode dan dokumentasikan modifikasi yang benar-benar dibuat.
+Repositori ini paling cocok untuk latihan memahami perubahan file, staging, branch, dan penyelesaian merge conflict. Sebelum dijadikan portofolio aplikasi, lanjutkan pembersihan aset dan toolchain template lama serta dokumentasikan modifikasi yang benar-benar dibuat.
