@@ -12,9 +12,7 @@ Repositori ini berisi template landing page statis berbasis **Start Bootstrap Ne
 
 ## Status saat ini
 
-**Jangan anggap halaman ini sebagai build yang bersih.** File `index.html` masih berisi marker konflik Git (`<<<<<<<`, `=======`, dan `>>>>>>>`) di bagian hero. Marker tersebut harus diselesaikan atau dihapus sebelum halaman dipakai sebagai situs yang siap dipublikasikan.
-
-README ini sendiri sudah dirapikan agar tidak menampilkan konflik yang sama. Konflik di `index.html` belum diubah sebagai bagian dari perbaikan dokumentasi ini.
+**Konflik Git di bagian hero `index.html` sudah diselesaikan** dengan satu judul yang valid: “Belajar dan Berkembang Bersama Komunitas Programmer”. Marker konflik (`<<<<<<<`, `=======`, dan `>>>>>>>`) yang sebelumnya merusak markup telah dihapus. Ini memperbaiki konflik sumber yang diketahui, tetapi belum berarti seluruh template lama telah lolos audit produksi.
 
 ## Melihat file
 
